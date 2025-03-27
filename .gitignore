@@ -53,3 +53,32 @@ yarn-debug.log*
 
 /app/assets/builds/*
 !/app/assets/builds/.keep
+
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
+
+# Environment-specific files
+.env*
+!.env.example
+
+# Additional Rails temporary files and logs
+/public/system/*
+.rspec_status
+coverage/
+spec/reports/
+
+# Additional package manager files
+.npm/
+npm-debug.log*
+
+# Storage files
+storage/*
+!/storage/.keep
+/public/storage
+
+# Additional IDE files
+.idea/
+.vscode/
+*.code-workspace
