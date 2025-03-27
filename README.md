@@ -13,7 +13,7 @@ WBlog is open source blog which built for mobile first, it's licenced on MIT, us
 New: WBlog has updated from webpacker to jsbundling & cssbundling with esbuild and sass.
 
 New: WBlog is using Ruby on Rails 7.0 now.
-
+xsaxsa
 [中文说明文档](/README.zh-CN.md)
 
 Characteristic:
