@@ -15,7 +15,7 @@ New: WBlog has updated from webpacker to jsbundling & cssbundling with esbuild a
 New: WBlog is using Ruby on Rails 7.0 now.
 
 [中文说明文档](/README.zh-CN.md)
-xxxxxxczxczxcz
+xxxxxxx
 Characteristic:
 
 * Modern clean reading feelings
